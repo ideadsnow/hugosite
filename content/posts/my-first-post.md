@@ -9,3 +9,7 @@ This is **bold** text, and this is *emphasized* text.
 
 Visit the [Hugo](https://gohugo.io) website!
 
+
+Pikachu is watching YOU!
+
+![Pikachu!](https://webp.slightsnow.com/avatar.jpg)
